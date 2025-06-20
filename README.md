@@ -26,4 +26,8 @@ Use the following command to start the program:
 Step 5: Run Unit Tests (Optional)
 To run unit tests (if MessageTest.java exists), use:
  java -cp .;json-simple-1.1.1.jar MessageTest
- Notes:------- Ensure json-simple-1.1.1.jar is in the same folder.- You must be authenticated with username: admin and password: admin123 to proceed.- Stored messages are read from a file named `stored_messages.json`.
+
+Notes:
+Ensure json-simple-1.1.1.jar is in the same folder.
+You must be authenticated with username: admin and password: admin123 to proceed.
+Stored messages are read from a file named `stored_messages.json`.
